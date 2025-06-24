@@ -1,0 +1,306 @@
+INFO:root:\u2192 Inserted 10000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 20000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 30000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 40000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 50000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 60000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 70000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 10000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 20000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 30000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 40000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 50000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 60000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 10000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 20000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 30000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 40000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 50000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 60000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 70000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 80000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 90000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 100000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 110000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 120000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 130000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 140000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 150000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 160000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 170000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 180000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 190000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 200000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 210000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 220000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 230000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 240000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 250000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 260000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 270000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 280000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 290000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted final 2416 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 10000 records into ussd_sessions
+INFO:root:\u2192 Inserted 20000 records into ussd_sessions
+INFO:root:\u2192 Inserted 30000 records into ussd_sessions
+INFO:root:\u2192 Inserted final 4051 records into ussd_sessions
+ERROR:root:MySQL batch insert failed: 1054 (42S22): Unknown column 'phoneNumber' in 'field list'
+INFO:root:\u2192 Inserted final 1326 records into ussd_sessions
+INFO:root:\u2192 Inserted final 4584 records into mobile_app_clients
+INFO:root:\u2192 Inserted 10000 records into all_alterations
+INFO:root:\u2192 Inserted final 1810 records into all_alterations
+INFO:root:\u2192 Inserted final 440 records into all_alterations
+INFO:root:\u2192 Inserted 10000 records into all_alterations
+INFO:root:\u2192 Inserted final 425 records into all_alterations
+INFO:root:\u2192 Inserted final 3399 records into upgrade_downgrades
+INFO:root:\u2192 Inserted 10000 records into ussd_sessions
+INFO:root:\u2192 Inserted 20000 records into ussd_sessions
+INFO:root:\u2192 Inserted 30000 records into ussd_sessions
+INFO:root:\u2192 Inserted final 4054 records into ussd_sessions
+ERROR:root:MySQL batch insert failed: 1054 (42S22): Unknown column 'phoneNumber' in 'field list'
+INFO:root:\u2192 Inserted final 1326 records into ussd_sessions
+INFO:root:\u2192 Inserted final 4584 records into mobile_app_clients
+INFO:root:\u2192 Inserted 10000 records into all_alterations
+INFO:root:\u2192 Inserted final 1810 records into all_alterations
+INFO:root:\u2192 Inserted final 440 records into all_alterations
+INFO:root:\u2192 Inserted 10000 records into all_alterations
+INFO:root:\u2192 Inserted final 426 records into all_alterations
+INFO:root:\u2192 Inserted final 2393 records into upgrade_downgrades
+INFO:root:\u2192 Inserted 10000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 20000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 30000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 40000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 50000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 60000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 70000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 80000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 90000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 100000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 110000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 120000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 130000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 140000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 150000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 160000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 170000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 180000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 190000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 200000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 210000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 220000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 230000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 240000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 250000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 260000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 270000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 280000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 290000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted final 2422 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 10000 records into ussd_sessions
+INFO:root:\u2192 Inserted 20000 records into ussd_sessions
+INFO:root:\u2192 Inserted 30000 records into ussd_sessions
+INFO:root:\u2192 Inserted final 4054 records into ussd_sessions
+ERROR:root:MySQL batch insert failed: 1054 (42S22): Unknown column 'phoneNumber' in 'field list'
+INFO:root:\u2192 Inserted final 1326 records into ussd_sessions
+INFO:root:\u2192 Inserted final 4584 records into mobile_app_clients
+INFO:root:\u2192 Inserted 10000 records into all_alterations
+INFO:root:\u2192 Inserted 10000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 20000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 30000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 40000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 50000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 60000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 70000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 80000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 90000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 100000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 110000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 120000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 130000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 140000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 150000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 160000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 170000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 180000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 190000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 200000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 210000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 220000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 230000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 240000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 250000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 260000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 270000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 280000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 290000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted final 2423 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 10000 records into ussd_sessions
+INFO:root:\u2192 Inserted 20000 records into ussd_sessions
+INFO:root:\u2192 Inserted 30000 records into ussd_sessions
+INFO:root:\u2192 Inserted final 4055 records into ussd_sessions
+ERROR:root:MySQL batch insert failed: 1054 (42S22): Unknown column 'phoneNumber' in 'field list'
+INFO:root:\u2192 Inserted final 1326 records into ussd_sessions
+INFO:root:\u2192 Inserted final 4584 records into mobile_app_clients
+INFO:root:\u2192 Inserted 10000 records into all_alterations
+INFO:root:\u2192 Inserted final 1811 records into all_alterations
+INFO:root:\u2192 Inserted final 440 records into all_alterations
+INFO:root:\u2192 Inserted 10000 records into all_alterations
+INFO:root:\u2192 Inserted final 426 records into all_alterations
+INFO:root:\u2192 Inserted final 3399 records into all_alterations
+INFO:root:\u2192 Inserted final 2393 records into upgrade_downgrades
+INFO:root:\u2192 Inserted 10000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 20000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 30000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 40000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 50000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 60000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 70000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 80000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 90000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 100000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 110000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 120000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 130000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 140000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 150000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 160000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 170000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 180000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 190000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 200000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 210000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 220000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 230000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 240000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 250000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 260000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 270000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 280000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 290000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted final 2425 records into whatsapp_sessions
+ERROR:root:MySQL batch insert failed: 1054 (42S22): Unknown column 'phoneNumber' in 'field list'
+INFO:root:\u2192 Inserted 10000 records into ussd_sessions
+ERROR:root:MySQL batch insert failed: 1054 (42S22): Unknown column 'phoneNumber' in 'field list'
+INFO:root:\u2192 Inserted 20000 records into ussd_sessions
+ERROR:root:MySQL batch insert failed: 1054 (42S22): Unknown column 'phoneNumber' in 'field list'
+INFO:root:\u2192 Inserted 30000 records into ussd_sessions
+ERROR:root:MySQL batch insert failed: 1054 (42S22): Unknown column 'phoneNumber' in 'field list'
+INFO:root:\u2192 Inserted final 4060 records into ussd_sessions
+ERROR:root:MySQL batch insert failed: 1054 (42S22): Unknown column 'phoneNumber' in 'field list'
+INFO:root:\u2192 Inserted final 1327 records into ussd_sessions
+INFO:root:\u2192 Inserted final 4585 records into mobile_app_clients
+INFO:root:\u2192 Inserted 10000 records into all_alterations
+INFO:root:\u2192 Inserted final 1811 records into all_alterations
+INFO:root:\u2192 Inserted final 440 records into all_alterations
+INFO:root:\u2192 Inserted 10000 records into all_alterations
+INFO:root:\u2192 Inserted final 426 records into all_alterations
+INFO:root:\u2192 Inserted final 3399 records into all_alterations
+INFO:root:\u2192 Inserted final 2393 records into upgrade_downgrades
+INFO:root:\u2192 Inserted 10000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 20000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 30000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 40000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 50000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 60000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 70000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 80000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 90000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 100000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 110000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 120000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 130000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 140000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 150000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 160000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 170000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 180000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 190000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 200000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 210000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 220000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 230000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 240000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 250000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 260000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 270000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 280000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 290000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted final 2425 records into whatsapp_sessions
+ERROR:root:MySQL batch insert failed: 1054 (42S22): Unknown column 'phoneNumber' in 'field list'
+INFO:root:\u2192 Inserted 10000 records into ussd_sessions
+ERROR:root:MySQL batch insert failed: 1054 (42S22): Unknown column 'phoneNumber' in 'field list'
+INFO:root:\u2192 Inserted 20000 records into ussd_sessions
+ERROR:root:MySQL batch insert failed: 1054 (42S22): Unknown column 'phoneNumber' in 'field list'
+INFO:root:\u2192 Inserted 30000 records into ussd_sessions
+ERROR:root:MySQL batch insert failed: 1054 (42S22): Unknown column 'phoneNumber' in 'field list'
+INFO:root:\u2192 Inserted final 4062 records into ussd_sessions
+ERROR:root:MySQL batch insert failed: 1054 (42S22): Unknown column 'phoneNumber' in 'field list'
+INFO:root:\u2192 Inserted final 1327 records into ussd_sessions
+INFO:root:\u2192 Inserted final 4585 records into mobile_app_clients
+INFO:root:\u2192 Inserted 10000 records into all_alterations
+INFO:root:\u2192 Inserted final 1811 records into all_alterations
+INFO:root:\u2192 Inserted final 440 records into all_alterations
+INFO:root:\u2192 Inserted 10000 records into all_alterations
+INFO:root:\u2192 Inserted final 426 records into all_alterations
+INFO:root:\u2192 Inserted final 3399 records into all_alterations
+INFO:root:\u2192 Inserted final 2393 records into upgrade_downgrades
+INFO:root:\u2192 Inserted 10000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 20000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 30000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 40000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 50000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 60000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 70000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 80000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 90000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 100000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 110000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 120000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 130000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 140000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 150000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 160000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 170000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 180000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 190000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 200000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 210000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 220000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 230000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 240000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 250000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 260000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 270000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 280000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 290000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted final 2427 records into whatsapp_sessions
+ERROR:root:MySQL batch insert failed: 1054 (42S22): Unknown column 'phoneNumber' in 'field list'
+INFO:root:\u2192 Inserted 10000 records into ussd_sessions
+ERROR:root:MySQL batch insert failed: 1054 (42S22): Unknown column 'phoneNumber' in 'field list'
+INFO:root:\u2192 Inserted 20000 records into ussd_sessions
+ERROR:root:MySQL batch insert failed: 1054 (42S22): Unknown column 'phoneNumber' in 'field list'
+INFO:root:\u2192 Inserted 30000 records into ussd_sessions
+ERROR:root:MySQL batch insert failed: 1054 (42S22): Unknown column 'phoneNumber' in 'field list'
+INFO:root:\u2192 Inserted final 4069 records into ussd_sessions
+ERROR:root:MySQL batch insert failed: 1054 (42S22): Unknown column 'phoneNumber' in 'field list'
+INFO:root:\u2192 Inserted final 1327 records into ussd_sessions
+INFO:root:\u2192 Inserted final 4586 records into mobile_app_clients
+INFO:root:\u2192 Inserted 10000 records into all_alterations
+INFO:root:\u2192 Inserted final 1812 records into all_alterations
+INFO:root:\u2192 Inserted final 440 records into all_alterations
+INFO:root:\u2192 Inserted 10000 records into all_alterations
+INFO:root:\u2192 Inserted final 426 records into all_alterations
+INFO:root:\u2192 Inserted final 3399 records into all_alterations
+INFO:root:\u2192 Inserted final 2393 records into upgrade_downgrades
+INFO:root:\u2192 Inserted 10000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 20000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 30000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 40000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 50000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 60000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 70000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 80000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 90000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 100000 records into whatsapp_sessions
+INFO:root:\u2192 Inserted 110000 records into whatsapp_sessions
